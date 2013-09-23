@@ -9,7 +9,7 @@ Running the Game
 ===================
 The game is written in the programming language Turing. First install the font included with the game. Execute the "Duck Hunt.t" file in Turing to start the game.
 
-Note: Game originally worked with custom made arcade controller, that feature has been removed resulting in the vibration option having no effect in-game.
+Note: game originally worked with custom made arcade controller, that feature has been removed resulting in the vibration option having no effect in-game.
 
 Controls
 ========
