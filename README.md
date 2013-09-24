@@ -1,4 +1,4 @@
-Duck-Hunt
+Duck Hunt
 =========
 
 An introduction to games in Turing
