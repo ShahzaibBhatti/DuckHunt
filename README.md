@@ -3,6 +3,8 @@ Duck Hunt
 
 An introduction to games in Turing
 
+By: Shahzaib Bhatti and Sameid Usmani
+
 ![Main Menu](/Screenshots/screen1.png)
 
 Running the Game
