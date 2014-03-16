@@ -3,7 +3,7 @@ Duck Hunt
 
 An introduction to games in Turing
 
-By: Shahzaib Bhatti and Sameid Usmani
+By: Shahzaib Bhatti and [Sameid Usmani](https://github.com/sameid)
 
 ![Main Menu](/Screenshots/screen1.png)
 
